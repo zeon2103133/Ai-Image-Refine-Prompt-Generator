@@ -1,0 +1,5 @@
+{
+  "name": "AI改圖指令產生器",
+  "description": "An application to analyze images and generate refined prompts for AI image editing, with support for multiple customizable tabs and drag-and-drop reordering.",
+  "requestFramePermissions": []
+}
